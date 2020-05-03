@@ -1,0 +1,6 @@
+{
+	"name": "水元素",
+	"description": "基础元素，通过超电磁分解水获取",
+	"type": "resource",
+	"color": "#FF00C1FF"
+}
